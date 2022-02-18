@@ -3,4 +3,4 @@ Curso Governança de Dados na [Udemy](https://www.udemy.com/course/governanca-de
 ### :boom: Temas abordados durante o curso foram :rocket:
 - Seção 01 - Governança de Dados
 - Seção 02 - Papéis em Governança de Dados
-- [Profling de Dados - Exercício Prático]()
+- [Seção 03 - Profling de Dados - Exercício Prático]()
